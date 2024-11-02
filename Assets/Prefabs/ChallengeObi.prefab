@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 944823539329545477}
   - component: {fileID: -4760122041148120077}
+  - component: {fileID: -1907708927055411209}
   m_Layer: 0
   m_Name: ChallengeObi
   m_TagString: Untagged
@@ -54,6 +55,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 6
+--- !u!114 &-1907708927055411209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2694405831373170144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d74e7dfb8f3d64387e8062319d6a1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &697198129436493945
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -498,7 +511,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5430865712290458114, guid: c35ef15c1d5cf554ca44aa3c5f446bfb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.19
+      value: 2.09
       objectReference: {fileID: 0}
     - target: {fileID: 5430865712290458114, guid: c35ef15c1d5cf554ca44aa3c5f446bfb, type: 3}
       propertyPath: m_LocalPosition.y
